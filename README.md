@@ -1,3 +1,3 @@
-# gracerep
-An extremely boring repository
-It's actually so boring so I don't even know what to write here.
+Hello Sugar Labs
+
+It's Mariam and I don't know what else to mention here.
